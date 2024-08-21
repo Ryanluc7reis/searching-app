@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import { User } from "./types/users";
+import { User } from "../../types/users";
 import styled from "styled-components";
 
 const Container = styled.div`
