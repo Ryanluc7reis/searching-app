@@ -6,7 +6,7 @@ A aplicação consiste a consumação de uma api com dados mock por meio de uma 
 ## Tecnologias
 - TypeScript
 - Next.js
-- Faker
+- @faker-js/faker
 - Styled-components
 ## Instalação
 
