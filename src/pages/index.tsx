@@ -9,7 +9,7 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  text-align: center;
 `;
 const Table = styled.table`
   border-radius: 10px;
@@ -53,9 +53,9 @@ export default function Home() {
       <h3>Average Age: {averageAge}</h3>
 
       {users.length === 0 ? (
-        <Table>
+        <div style={{ width: "100%", height: "600px", textAlign: "center" }}>
           <h4>No user found</h4>
-        </Table>
+        </div>
       ) : (
         <Table>
           <thead>
