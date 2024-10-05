@@ -40,7 +40,7 @@ export default function Home() {
 
   return (
     <Container>
-      <h2>Searching app</h2>
+      <h2>Searching users</h2>
       <input
         type="text"
         placeholder="Search for users"

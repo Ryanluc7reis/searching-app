@@ -5,7 +5,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Searching app</title>
+        <title>Searching users</title>
       </Head>
       <Component {...pageProps} />
     </>
