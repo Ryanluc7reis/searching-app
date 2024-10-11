@@ -1,8 +1,8 @@
 # Searching app
 
 A aplicação consiste a consumação de uma api com dados mock por meio de uma filtragem por primeiro nome ou segundo nome.
-
-
+## Layout
+![searching](https://github.com/user-attachments/assets/5e673034-f3a1-45e9-af11-dcea82fd9ba1)
 ## Tecnologias
 - TypeScript
 - Next.js
@@ -11,6 +11,7 @@ A aplicação consiste a consumação de uma api com dados mock por meio de uma 
 ## Instalação
 
 Instruções sobre como instalar o projeto localmente.
+
 
 ```bash
 # Clone o repositório
