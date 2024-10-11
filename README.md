@@ -1,6 +1,6 @@
 # Searching app
 
-A aplicação consiste a consumação de uma api com dados mock por meio de uma filtragem por primeiro nome ou segundo nome.
+A aplicação consiste a consumação de uma api com dados mock por meio de uma filtragem por primeiro nome ou segundo nome e também te oferece uma média de idade dos dados encontrados.
 ## Layout
 ![searching](https://github.com/user-attachments/assets/5e673034-f3a1-45e9-af11-dcea82fd9ba1)
 ## Tecnologias
