@@ -4,6 +4,7 @@ A aplicação consiste a consumação de uma api com dados mock por meio de uma 
 ## Layout
 ![searching](https://github.com/user-attachments/assets/5e673034-f3a1-45e9-af11-dcea82fd9ba1)
 ## Tecnologias
+- React
 - TypeScript
 - Next.js
 - @faker-js/faker
